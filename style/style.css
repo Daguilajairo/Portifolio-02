@@ -68,6 +68,13 @@ section#redes-sociais img:hover{
 
 @media screen and (min-width: 390px) and (max-width: 768px) { 
     
+
+    main{
+        height: 97vh;
+        position: relative;
+        
+    }
+
     section#telefone{
         position: absolute;
         top: 50%;
