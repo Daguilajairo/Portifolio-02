@@ -65,3 +65,23 @@ section#redes-sociais img:hover{
     transition: transform 0.3s, 
     
 }
+
+@media screen and (min-width: 390px) and (max-width: 768px) { 
+    
+    section#telefone{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 627px;
+        width: 370px;
+        
+        background: url('../Imagens/frame-iphone.png') no-repeat;
+    }
+    
+   
+
+
+
+
+}
